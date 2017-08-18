@@ -3,7 +3,7 @@ Four guides for teaching students how to start with arduino
 These are instructional and exercises guide books for 
 high school students and teachers:
 
-1. “The basics of C for the Arduino” 
+1. “The basics of C for the Arduino”
 presenting the basics of C programing language for writing 
 Arduino programs (sketches).
 
